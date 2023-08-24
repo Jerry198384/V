@@ -5,9 +5,9 @@ vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.222.251.201:8443?host=sg.emocenx.
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.222.181.177:8443?host=sg.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=sg.emocenx.link#CF-SG2
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@43.156.5.131:443?host=sg.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=sg.emocenx.link#CF-SG3
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@103.201.130.136:2083?host=jp.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=jp.emocenx.link#CF-JP1
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@146.56.166.153:8443?host=jp.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=jp.emocenx.link#CF-JP2
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@193.122.118.11:2096?host=jp.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=jp.emocenx.link#CF-JP3
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@193.123.232.99:2053?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR1
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@131.186.20.197:2053?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR2
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@152.70.242.65:8443?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR3
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@193.122.113.232:2096?host=jp.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=jp.emocenx.link#CF-JP2
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@146.56.41.141:2096?host=jp.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=jp.emocenx.link#CF-JP3
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@146.56.46.84:2087?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR1
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@152.70.95.226:2087?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR2
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@132.226.239.220:2087?host=kr.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=kr.emocenx.link#CF-KR3
 
