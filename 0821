@@ -1,6 +1,6 @@
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.210.55.134:8443?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF-HK1
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@47.240.31.5:2083?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF-HK2
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.218.110.180:2087?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF-HK3
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@47.243.243.134:443?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF-HK3
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.222.251.201:8443?host=sg.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=sg.emocenx.link#CF-SG1
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.222.181.177:8443?host=sg.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=sg.emocenx.link#CF-SG2
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@43.156.5.131:443?host=sg.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=sg.emocenx.link#CF-SG3
